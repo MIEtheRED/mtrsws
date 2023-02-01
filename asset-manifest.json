@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/miethered-sws/static/css/main.ce249861.css",
-    "main.js": "/miethered-sws/static/js/main.66d93c93.js",
-    "index.html": "/miethered-sws/index.html",
-    "main.ce249861.css.map": "/miethered-sws/static/css/main.ce249861.css.map",
-    "main.66d93c93.js.map": "/miethered-sws/static/js/main.66d93c93.js.map"
+    "main.css": "/mtrsws/static/css/main.ce249861.css",
+    "main.js": "/mtrsws/static/js/main.66d93c93.js",
+    "index.html": "/mtrsws/index.html",
+    "main.ce249861.css.map": "/mtrsws/static/css/main.ce249861.css.map",
+    "main.66d93c93.js.map": "/mtrsws/static/js/main.66d93c93.js.map"
   },
   "entrypoints": [
     "static/css/main.ce249861.css",
