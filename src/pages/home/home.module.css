@@ -1,0 +1,45 @@
+.card {
+  background-color: rgba(138, 16, 10, 0.06);
+  padding: .25em 1em;
+
+  border: 1px solid rgb(138, 17, 10);
+  border-radius: 8px;
+
+  box-shadow: 3px 3px 8px rgba(255, 30, 0, 0.364);
+
+  text-align: center;
+  line-height: 133%;
+  font-weight: 500;
+}
+
+.heading {
+  padding-left: .5em;
+}
+
+.education {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  row-gap: 1em;
+
+  padding: 1em;
+
+  text-align: left;
+}
+
+.educationItem {
+  text-align: center;
+}
+
+.education h2 {
+  text-align: center;
+}
+
+.educationLink {
+  color: rgb(8, 2, 2);
+  text-decoration: none;
+}
+
+.educationLink:hover {
+  font-weight: 700;
+}
